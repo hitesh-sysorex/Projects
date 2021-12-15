@@ -15,4 +15,4 @@ class userData(models.Model):
 
 
     def __str__(self):
-        return self.email
+        return self.name
